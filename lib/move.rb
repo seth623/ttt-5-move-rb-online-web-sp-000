@@ -17,7 +17,5 @@ end
 
 #move
 def move(array, index, value = 'X')
-    input_to_index(index)
     array[index] = value
-    display_board(array)
 end
