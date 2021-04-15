@@ -14,4 +14,8 @@ index = input_to_index(input)
 
 move(board, index, character = "X")
 
+<<<<<<< HEAD
 display_board(board)
+=======
+display_board(move)
+>>>>>>> b12d76f0b06c5ebc9aaa0fd70df7f63dad18a4a5
